@@ -1,0 +1,30 @@
+STÄDDROTTNINGEN – SÅ LÄGGER DU UPP APPEN (GitHub Pages, gratis)
+
+1. Packa upp zip-filen på en dator. Du får en mapp med 8 filer.
+2. Gå till github.com och skapa ett gratis konto (eller logga in).
+3. Tryck på "+" uppe till höger -> "New repository".
+   - Repository name: staddrottningen
+   - Välj "Public"
+   - Tryck "Create repository".
+4. På nästa sida: tryck på länken "uploading an existing file".
+   Dra in ALLA filerna från mappen (inte själva mappen, inte zip-filen).
+   Tryck "Commit changes".
+5. Gå till "Settings" -> "Pages" (i menyn till vänster).
+   Under "Branch": välj "main" och "/ (root)" -> "Save".
+6. Vänta 1–2 minuter och ladda om sidan. Där står adressen, t.ex.
+   https://DITTANVÄNDARNAMN.github.io/staddrottningen/
+7. Skicka adressen till Fanny.
+
+FANNY PÅ IPHONE:
+- Öppna adressen i Safari.
+- Tryck på Dela-knappen -> "Lägg till på hemskärmen" -> "Lägg till".
+- Spela alltid från ikonen på hemskärmen.
+
+FLYTTA MED DET HON REDAN SPELAT:
+- I det gamla spelet: tryck 💾 -> "Spara som fil" eller kopiera sparkoden.
+- Öppna appen från hemskärmen -> tryck 💾 -> "Öppna sparfil" eller klistra in koden.
+
+UPPDATERA SPELET SENARE:
+- Ladda upp den nya index.html på samma sätt ("Add file" -> "Upload files")
+  och skriv över den gamla. Appen hämtar nya versionen nästa gång den
+  öppnas med internet.
